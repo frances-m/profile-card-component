@@ -163,7 +163,7 @@ section {
   }
 }
 
-@media screen and (min-height: 600px) {
+@media screen and (min-width: 600px) {
   .bg-image-top {
     top: -65vh;
     left: -12vw;
